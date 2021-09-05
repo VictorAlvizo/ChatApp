@@ -1,0 +1,23 @@
+﻿  main.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Victo\Desktop\Chat\Networking\Packet.h(31,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Victo\Desktop\Chat\Networking\Packet.h(125,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Victo\Desktop\Chat\Networking\Packet.h(148,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Victo\Desktop\Chat\Networking\Connection.h(31,24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Victo\Desktop\Chat\Networking\Packet.h(25,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Victo\Desktop\Chat\Networking\Connection.h(271): message : see reference to function template instantiation 'Packet::Packet<int>(PacketType,const T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Victo\Desktop\Chat\Networking\Packet.h(138,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Victo\Desktop\Chat\ChatApp\main.cpp(146): message : see reference to function template instantiation 'Packet &operator >><int>(Packet &,T &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Victo\Desktop\Chat\ChatApp\main.cpp(359): warning C4715: 'ProcessKeys': not all control paths return a value
+  ChatApp.vcxproj -> C:\Users\Victo\Desktop\Chat\x64\Debug\ChatApp.exe

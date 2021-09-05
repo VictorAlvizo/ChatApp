@@ -1,0 +1,21 @@
+[05:24:59 PM]: Server Started Running
+[05:25:09 PM]: New Connection With Client
+[05:25:09 PM]: 1000 Connection Approved
+[05:25:09 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:25:09 PM]: Awesome is Now Connected With ID: 1000
+[05:25:16 PM]: New Connection With Client
+[05:25:16 PM]: 1001 Connection Approved
+[05:25:16 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:25:16 PM]: John is Now Connected With ID: 1001
+[05:25:16 PM]: Failed Sending Packet to Awesome
+[05:25:16 PM]: The User Awesome Has Been Removed
+[05:25:16 PM]: Awesome Has Disconnected
+[05:25:27 PM]: New Connection With Client
+[05:25:27 PM]: 1002 Connection Approved
+[05:25:27 PM]: The Connection With Client ID: 1002 Has Been Validated
+[05:25:27 PM]: Awesome is Now Connected With ID: 1002
+[08:28:40 PM]: Server Started Running
+[08:28:55 PM]: New Connection With Client
+[08:28:55 PM]: 1000 Connection Approved
+[08:28:55 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:28:55 PM]: Awesome is Now Connected With ID: 1000

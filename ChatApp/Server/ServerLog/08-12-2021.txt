@@ -1,0 +1,97 @@
+[01:54:08 PM]: Server Started Running
+[01:54:43 PM]: Server Started Running
+[01:54:52 PM]: New Connection With Client
+[01:54:52 PM]: 1000 Connection Approved
+[01:54:52 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:54:52 PM]: Polo is now connected with ID: 1000
+[01:55:02 PM]: Server Started Running
+[01:55:08 PM]: New Connection With Client
+[01:55:08 PM]: 1000 Connection Approved
+[01:55:08 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:55:08 PM]: Los is now connected with ID: 1000
+[01:55:13 PM]: New Connection With Client
+[01:55:13 PM]: 1001 Connection Approved
+[01:55:13 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:55:13 PM]: New Connection Getting Rejected For Having A Taken Username: Los
+[01:55:13 PM]: Los Has Disconnected
+[01:55:19 PM]: New Connection With Client
+[01:55:19 PM]: 1002 Connection Approved
+[01:55:19 PM]: The Connection With Client ID: 1002 Has Been Validated
+[01:55:19 PM]: Aws is now connected with ID: 1002
+[02:00:48 PM]: Server Started Running
+[02:06:47 PM]: Server Started Running
+[02:07:01 PM]: New Connection With Client
+[02:07:01 PM]: 1000 Connection Approved
+[02:07:01 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:07:01 PM]: Espera is now connected with ID: 1000
+[02:10:51 PM]: Server Started Running
+[02:10:57 PM]: New Connection With Client
+[02:10:57 PM]: 1000 Connection Approved
+[02:10:57 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:10:57 PM]: S is now connected with ID: 1000
+[02:25:01 PM]: Server Started Running
+[02:25:08 PM]: New Connection With Client
+[02:25:08 PM]: 1000 Connection Approved
+[02:25:08 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:25:08 PM]: Johnny is now connected with ID: 1000
+[02:26:48 PM]: Server Started Running
+[02:26:52 PM]: New Connection With Client
+[02:26:52 PM]: 1000 Connection Approved
+[02:26:52 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:27:34 PM]: Server Started Running
+[02:27:38 PM]: New Connection With Client
+[02:27:38 PM]: 1000 Connection Approved
+[02:27:38 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:27:38 PM]: Sin is now connected with ID: 1000
+[02:27:43 PM]: New Connection With Client
+[02:27:43 PM]: 1001 Connection Approved
+[02:27:43 PM]: The Connection With Client ID: 1001 Has Been Validated
+[02:27:43 PM]: New Connection Getting Rejected For Having A Taken Username: Sin
+[02:28:01 PM]: New Connection With Client
+[02:28:01 PM]: 1002 Connection Approved
+[02:28:01 PM]: The Connection With Client ID: 1002 Has Been Validated
+[02:28:01 PM]: Jumbo is now connected with ID: 1002
+[02:42:33 PM]: Server Started Running
+[02:42:51 PM]: New Connection With Client
+[02:42:51 PM]: 1000 Connection Approved
+[02:42:51 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:42:51 PM]: Door is now connected with ID: 1000
+[02:42:55 PM]: New Connection With Client
+[02:42:55 PM]: 1001 Connection Approved
+[02:42:55 PM]: The Connection With Client ID: 1001 Has Been Validated
+[02:42:55 PM]: New Connection Getting Rejected For Having A Taken Username: Door
+[02:42:55 PM]: Door Has Disconnected
+[02:43:17 PM]: New Connection With Client
+[02:43:17 PM]: 1002 Connection Approved
+[02:43:17 PM]: The Connection With Client ID: 1002 Has Been Validated
+[02:43:17 PM]: Like is now connected with ID: 1002
+[02:43:22 PM]: Like is Now Chatting With Door
+[03:05:24 PM]: Server Started Running
+[03:06:13 PM]: New Connection With Client
+[03:06:13 PM]: 1000 Connection Approved
+[03:06:13 PM]: The Connection With Client ID: 1000 Has Been Validated
+[03:06:13 PM]: New Connection Getting Rejected For Having A Taken Username: DarkRider
+[03:10:13 PM]: Server Started Running
+[03:10:21 PM]: New Connection With Client
+[03:10:21 PM]: 1000 Connection Approved
+[03:10:21 PM]: The Connection With Client ID: 1000 Has Been Validated
+[03:10:21 PM]: New Connection Getting Rejected For Having A Taken Username: DarkRider
+[03:11:09 PM]: New Connection With Client
+[03:11:09 PM]: 1001 Connection Approved
+[03:11:09 PM]: The Connection With Client ID: 1001 Has Been Validated
+[03:11:09 PM]: DarkRider is now connected with ID: 1001
+[03:11:41 PM]: New Connection With Client
+[03:11:41 PM]: 1002 Connection Approved
+[03:11:41 PM]: The Connection With Client ID: 1002 Has Been Validated
+[03:11:41 PM]: Login Attempt to Cati Failed! Incorrect Password
+[03:12:04 PM]: New Connection With Client
+[03:12:04 PM]: 1003 Connection Approved
+[03:12:04 PM]: The Connection With Client ID: 1003 Has Been Validated
+[03:12:04 PM]: Login Attempt Failed! Dsadcx Was Not Found!
+[03:12:18 PM]: New Connection With Client
+[03:12:18 PM]: 1004 Connection Approved
+[03:12:18 PM]: The Connection With Client ID: 1004 Has Been Validated
+[03:12:18 PM]: Poly is now connected with ID: 1004
+[03:12:37 PM]: Poly is Now Chatting With DarkRider
+[03:12:41 PM]: DarkRider is Leaving the Conversation With Poly
+[03:15:50 PM]: Server Started Running

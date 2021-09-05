@@ -1,0 +1,92 @@
+[07:57:20 PM]: Server Started Running
+[07:57:29 PM]: New Connection With Client
+[07:57:29 PM]: 1000 Connection Approved
+[07:57:29 PM]: The Connection With Client ID: 1000 Has Been Validated
+[07:57:29 PM]: Awesome is now connected with ID: 1000
+[07:57:40 PM]: Server Started Running
+[07:57:48 PM]: New Connection With Client
+[07:57:48 PM]: 1000 Connection Approved
+[08:00:04 AM]: Server Started Running
+[08:09:57 AM]: Server Started Running
+[08:10:12 AM]: Server Started Running
+[08:10:19 AM]: New Connection With Client
+[08:10:19 AM]: 1000 Connection Approved
+[08:10:19 AM]: The Connection With Client ID: 1000 Has Been Validated
+[08:10:19 AM]: Test is now connected with ID: 1000
+[08:14:46 AM]: Server Started Running
+[08:14:54 AM]: New Connection With Client
+[08:14:54 AM]: 1000 Connection Approved
+[08:14:54 AM]: The Connection With Client ID: 1000 Has Been Validated
+[08:14:54 AM]: Cabbage is now connected with ID: 1000
+[08:14:59 AM]: Server Started Running
+[08:15:26 AM]: New Connection With Client
+[08:15:26 AM]: 1000 Connection Approved
+[08:15:26 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:15:37 AM]: New Connection With Client
+[08:15:37 AM]: 1001 Connection Approved
+[08:15:37 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:15:37 AM]: Other is now connected with ID: 1001
+[08:15:37 AM]: Failed Sending Packet to Other
+[08:15:37 AM]: The Username  Was Not Found During the Removal Process
+[08:15:37 AM]: Failed Sending Packet to Other
+[08:15:37 AM]: The Username  Was Not Found During the Removal Process
+[08:19:13 AM]: Server Started Running
+[08:19:28 AM]: New Connection With Client
+[08:19:28 AM]: 1000 Connection Approved
+[08:19:28 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:19:42 AM]: New Connection With Client
+[08:19:42 AM]: 1001 Connection Approved
+[08:19:42 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:19:42 AM]: Test is now connected with ID: 1001
+[08:21:25 AM]: Server Started Running
+[08:21:48 AM]: New Connection With Client
+[08:21:48 AM]: 1000 Connection Approved
+[08:21:48 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:21:57 AM]: New Connection With Client
+[08:21:57 AM]: 1001 Connection Approved
+[08:21:57 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:22:45 AM]: Awesome is now connected with ID: 1001
+[08:24:01 AM]: Server Started Running
+[08:24:18 AM]: New Connection With Client
+[08:24:18 AM]: 1000 Connection Approved
+[08:24:18 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:24:24 AM]: New Connection With Client
+[08:24:24 AM]: 1001 Connection Approved
+[08:24:24 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:24:24 AM]: Resolve is now connected with ID: 1001
+[08:27:08 AM]: Server Started Running
+[08:27:26 AM]: New Connection With Client
+[08:27:26 AM]: 1000 Connection Approved
+[08:27:26 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:27:31 AM]: Server Started Running
+[08:27:44 AM]: New Connection With Client
+[08:27:44 AM]: 1000 Connection Approved
+[08:27:44 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:27:51 AM]: New Connection With Client
+[08:27:51 AM]: 1001 Connection Approved
+[08:27:51 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:28:02 AM]: Rex is now connected with ID: 1001
+[08:31:26 AM]: Server Started Running
+[08:31:38 AM]: New Connection With Client
+[08:31:38 AM]: 1000 Connection Approved
+[08:31:38 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:31:45 AM]: New Connection With Client
+[08:31:45 AM]: 1001 Connection Approved
+[08:31:45 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:31:45 AM]: Smile is now connected with ID: 1001
+[08:33:03 AM]: Server Started Running
+[08:33:15 AM]: New Connection With Client
+[08:33:15 AM]: 1000 Connection Approved
+[08:33:15 AM]: Client ID: 1000 Failed The Validation, Connection Unsucessful!
+[08:33:21 AM]: New Connection With Client
+[08:33:21 AM]: 1001 Connection Approved
+[08:33:21 AM]: The Connection With Client ID: 1001 Has Been Validated
+[08:33:21 AM]: Qs is now connected with ID: 1001
+[08:33:30 AM]: New Connection With Client
+[08:33:30 AM]: 1002 Connection Approved
+[08:33:30 AM]: The Connection With Client ID: 1002 Has Been Validated
+[08:33:30 AM]: Awesome is now connected with ID: 1002
+[08:33:30 AM]: Failed Sending Packet to 
+[08:33:30 AM]:  Has Disconnected
+[08:33:37 AM]: Awesome is Now Chatting With Qs
+[08:33:44 AM]: Awesome is Leaving the Conversation With Qs

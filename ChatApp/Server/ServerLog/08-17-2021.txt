@@ -1,0 +1,31 @@
+[02:14:50 PM]: Server Started Running
+[02:15:06 PM]: New Connection With Client
+[02:15:06 PM]: 1000 Connection Approved
+[02:15:06 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:17:32 PM]: Server Started Running
+[02:17:37 PM]: New Connection With Client
+[02:17:37 PM]: 1000 Connection Approved
+[02:17:37 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:18:18 PM]: Server Started Running
+[02:18:22 PM]: New Connection With Client
+[02:18:22 PM]: 1000 Connection Approved
+[02:18:22 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:19:16 PM]: Server Started Running
+[02:19:20 PM]: New Connection With Client
+[02:19:20 PM]: 1000 Connection Approved
+[02:19:20 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:34:37 PM]: Server Started Running
+[02:34:47 PM]: New Connection With Client
+[02:34:47 PM]: 1000 Connection Approved
+[02:34:47 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:34:47 PM]: Joshy is now connected with ID: 1000
+[02:35:09 PM]: New Connection With Client
+[02:35:09 PM]: 1001 Connection Approved
+[02:35:09 PM]: The Connection With Client ID: 1001 Has Been Validated
+[02:35:09 PM]: Banned User Joey Has Tried Logging in
+[02:35:14 PM]: Login Attempt Failed! g Was Not Found!
+[02:35:30 PM]: New Connection With Client
+[02:35:30 PM]: 1002 Connection Approved
+[02:35:30 PM]: The Connection With Client ID: 1002 Has Been Validated
+[02:35:30 PM]: Awesome is now connected with ID: 1002
+[02:35:51 PM]: Awesome is Now Chatting With Joshy

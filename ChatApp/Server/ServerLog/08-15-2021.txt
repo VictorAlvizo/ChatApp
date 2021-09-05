@@ -1,0 +1,138 @@
+[01:25:57 PM]: Server Started Running
+[01:26:10 PM]: New Connection With Client
+[01:26:10 PM]: 1000 Connection Approved
+[01:26:10 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:26:10 PM]: Login Attempt Failed! d Was Not Found!
+[01:26:30 PM]: New Connection With Client
+[01:26:30 PM]: 1001 Connection Approved
+[01:26:30 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:26:30 PM]: Awesome is now connected with ID: 1001
+[01:27:42 PM]: Server Started Running
+[01:27:48 PM]: New Connection With Client
+[01:27:48 PM]: 1000 Connection Approved
+[01:27:48 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:27:48 PM]: John is now connected with ID: 1000
+[01:27:55 PM]: New Connection With Client
+[01:27:55 PM]: 1001 Connection Approved
+[01:27:55 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:27:55 PM]: DarkRider is now connected with ID: 1001
+[01:27:59 PM]: Failed Sending Packet to DarkRider
+[01:27:59 PM]: The User DarkRider Has Been Removed
+[01:27:59 PM]: DarkRider Has Disconnected
+[01:28:05 PM]: New Connection With Client
+[01:28:05 PM]: 1002 Connection Approved
+[01:28:05 PM]: The Connection With Client ID: 1002 Has Been Validated
+[01:28:05 PM]: Awesome is now connected with ID: 1002
+[01:28:43 PM]: John is Now Chatting With Awesome
+[01:28:46 PM]: Awesome is Leaving the Conversation With John
+[01:28:58 PM]: John is Now Chatting With Awesome
+[01:29:01 PM]: Awesome is Leaving the Conversation With John
+[01:29:10 PM]: John is Now Chatting With Awesome
+[04:59:15 PM]: Server Started Running
+[05:00:31 PM]: Server Started Running
+[05:00:38 PM]: New Connection With Client
+[05:00:38 PM]: 1000 Connection Approved
+[05:00:38 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:00:38 PM]: Login Attempt Failed! f Was Not Found!
+[05:00:41 PM]: Awesome is now connected with ID: 1000
+[05:00:45 PM]: New Connection With Client
+[05:00:45 PM]: 1001 Connection Approved
+[05:00:45 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:00:45 PM]: John is now connected with ID: 1001
+[05:00:50 PM]: John is Now Chatting With Awesome
+[05:00:53 PM]: Failed Sending Packet to John
+[05:00:53 PM]: The User John Has Been Removed
+[05:00:53 PM]: John Has Disconnected
+[05:00:53 PM]: John is Leaving the Conversation With Awesome
+[05:27:18 PM]: Server Started Running
+[05:27:24 PM]: New Connection With Client
+[05:27:24 PM]: 1000 Connection Approved
+[05:27:24 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:27:24 PM]: Login Attempt Failed! Adcx Was Not Found!
+[05:27:26 PM]: Awesome is now connected with ID: 1000
+[05:27:36 PM]: New Connection With Client
+[05:27:36 PM]: 1001 Connection Approved
+[05:27:36 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:27:36 PM]: Joey is now connected with ID: 1001
+[05:28:01 PM]: Awesome is Now Chatting With Joey
+[05:28:50 PM]: New Connection With Client
+[05:28:50 PM]: 1002 Connection Approved
+[05:28:50 PM]: The Connection With Client ID: 1002 Has Been Validated
+[05:28:50 PM]: DarkRider is now connected with ID: 1002
+[05:28:50 PM]: Failed Sending Packet to Awesome
+[05:28:50 PM]: The User Awesome Has Been Removed
+[05:28:50 PM]: Awesome Has Disconnected
+[05:28:50 PM]: Failed Sending Packet to Joey
+[05:28:50 PM]: The User Joey Has Been Removed
+[05:28:50 PM]: Joey Has Disconnected
+[05:29:01 PM]: New Connection With Client
+[05:29:01 PM]: 1003 Connection Approved
+[05:29:01 PM]: The Connection With Client ID: 1003 Has Been Validated
+[05:29:01 PM]: John is now connected with ID: 1003
+[05:29:11 PM]: John is Now Chatting With DarkRider
+[05:33:45 PM]: Server Started Running
+[05:33:51 PM]: New Connection With Client
+[05:33:51 PM]: 1000 Connection Approved
+[05:33:51 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:33:51 PM]: John is now connected with ID: 1000
+[05:33:59 PM]: New Connection With Client
+[05:33:59 PM]: 1001 Connection Approved
+[05:33:59 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:33:59 PM]: Awesome is now connected with ID: 1001
+[05:34:04 PM]: Awesome is Now Chatting With John
+[05:34:22 PM]: Failed Sending Packet to Awesome
+[05:34:22 PM]: The User Awesome Has Been Removed
+[05:34:22 PM]: Awesome Has Disconnected
+[05:34:22 PM]: Awesome is Leaving the Conversation With John
+[05:36:23 PM]: Server Started Running
+[05:36:29 PM]: New Connection With Client
+[05:36:29 PM]: 1000 Connection Approved
+[05:36:29 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:36:29 PM]: Login Attempt Failed! Aweomse Was Not Found!
+[05:36:30 PM]: Awesome is now connected with ID: 1000
+[05:36:36 PM]: New Connection With Client
+[05:36:36 PM]: 1001 Connection Approved
+[05:36:36 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:36:36 PM]: John is now connected with ID: 1001
+[05:36:47 PM]: John is Now Chatting With Awesome
+[05:36:56 PM]: New Connection With Client
+[05:36:56 PM]: 1002 Connection Approved
+[05:36:56 PM]: The Connection With Client ID: 1002 Has Been Validated
+[05:36:56 PM]: DarkRider is now connected with ID: 1002
+[05:37:05 PM]: Awesome is Leaving the Conversation With John
+[05:37:05 PM]: Failed Sending Packet to John
+[05:37:05 PM]: The User John Has Been Removed
+[05:37:05 PM]: John Has Disconnected
+[05:37:05 PM]: Failed Sending Packet to DarkRider
+[05:37:05 PM]: The User DarkRider Has Been Removed
+[05:37:05 PM]: DarkRider Has Disconnected
+[05:44:29 PM]: Server Started Running
+[05:44:36 PM]: New Connection With Client
+[05:44:36 PM]: 1000 Connection Approved
+[05:44:36 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:44:36 PM]: Awesome is now connected with ID: 1000
+[05:44:40 PM]: New Connection With Client
+[05:44:40 PM]: 1001 Connection Approved
+[05:44:40 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:44:40 PM]: John is now connected with ID: 1001
+[05:44:52 PM]: John is Now Chatting With Awesome
+[05:45:00 PM]: John is Leaving the Conversation With Awesome
+[05:55:45 PM]: Server Started Running
+[05:55:52 PM]: New Connection With Client
+[05:55:52 PM]: 1000 Connection Approved
+[05:55:52 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:55:52 PM]: Login Attempt Failed! fd Was Not Found!
+[05:55:56 PM]: John is now connected with ID: 1000
+[05:56:00 PM]: New Connection With Client
+[05:56:00 PM]: 1001 Connection Approved
+[05:56:00 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:56:00 PM]: Awesome is now connected with ID: 1001
+[05:56:06 PM]: Awesome is Now Chatting With John
+[05:56:26 PM]: John is Leaving the Conversation With Awesome
+[05:56:37 PM]: New Connection With Client
+[05:56:37 PM]: 1002 Connection Approved
+[05:56:37 PM]: The Connection With Client ID: 1002 Has Been Validated
+[05:56:37 PM]: DarkRider is now connected with ID: 1002
+[05:56:37 PM]: Failed Sending Packet to John
+[05:56:37 PM]: The User John Has Been Removed
+[05:56:37 PM]: John Has Disconnected

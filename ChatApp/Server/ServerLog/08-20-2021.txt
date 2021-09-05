@@ -1,0 +1,173 @@
+[01:27:17 PM]: Server Started Running
+[01:27:34 PM]: New Connection With Client
+[01:27:34 PM]: 1000 Connection Approved
+[01:27:34 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:31:32 PM]: Server Started Running
+[01:31:50 PM]: New Connection With Client
+[01:31:50 PM]: 1000 Connection Approved
+[01:31:50 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:32:30 PM]: Server Started Running
+[01:32:46 PM]: New Connection With Client
+[01:32:46 PM]: 1000 Connection Approved
+[01:32:46 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:35:10 PM]: Server Started Running
+[01:35:50 PM]: New Connection With Client
+[01:35:50 PM]: 1000 Connection Approved
+[01:35:50 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:46:13 PM]: Server Started Running
+[01:46:35 PM]: New Connection With Client
+[01:46:35 PM]: 1000 Connection Approved
+[01:46:35 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:46:35 PM]: New Connection Getting Rejected For Having A Taken Username: John
+[01:46:59 PM]: New Connection Getting Rejected For Having A Taken Username: Awesome
+[01:47:14 PM]: New Connection With Client
+[01:47:14 PM]: 1001 Connection Approved
+[01:47:14 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:47:14 PM]: Awesome is Now Connected With ID: 1001
+[01:47:23 PM]: New Connection With Client
+[01:47:23 PM]: 1002 Connection Approved
+[01:47:23 PM]: The Connection With Client ID: 1002 Has Been Validated
+[01:47:23 PM]: John is Now Connected With ID: 1002
+[01:47:52 PM]: John is Now Chatting With Awesome
+[01:48:25 PM]: Server Started Running
+[01:48:54 PM]: New Connection With Client
+[01:48:54 PM]: 1000 Connection Approved
+[01:48:54 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:48:54 PM]: Banned User Joey Has Tried Logging in
+[01:48:57 PM]: Login Attempt Failed! c Was Not Found!
+[01:49:12 PM]: New Connection With Client
+[01:49:12 PM]: 1001 Connection Approved
+[01:49:12 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:49:12 PM]: Awesome is Now Connected With ID: 1001
+[01:49:17 PM]: New Connection With Client
+[01:49:17 PM]: 1002 Connection Approved
+[01:49:17 PM]: The Connection With Client ID: 1002 Has Been Validated
+[01:49:17 PM]: John is Now Connected With ID: 1002
+[01:49:27 PM]: Server Started Running
+[01:49:32 PM]: New Connection With Client
+[01:49:32 PM]: 1000 Connection Approved
+[01:49:32 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:49:32 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[01:49:44 PM]: DarkRider is Now Connected With ID: 1000
+[01:49:49 PM]: New Connection With Client
+[01:49:49 PM]: 1001 Connection Approved
+[01:49:49 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:49:49 PM]: John is Now Connected With ID: 1001
+[01:51:00 PM]: Server Started Running
+[01:51:22 PM]: New Connection With Client
+[01:51:22 PM]: 1000 Connection Approved
+[01:51:22 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:51:22 PM]: Kevin Has Now Registered and Connected With ID: 1000
+[01:51:32 PM]: New Connection With Client
+[01:51:32 PM]: 1001 Connection Approved
+[01:51:32 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:51:32 PM]: Login Attempt Failed! Awesome Was Not Found!
+[01:53:58 PM]: Server Started Running
+[01:54:11 PM]: New Connection With Client
+[01:54:11 PM]: 1000 Connection Approved
+[01:54:11 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:54:11 PM]: New Connection Getting Rejected For Having A Taken Username: Awesome
+[01:56:13 PM]: Server Started Running
+[01:56:48 PM]: New Connection With Client
+[01:56:48 PM]: 1000 Connection Approved
+[01:56:48 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:58:41 PM]: Server Started Running
+[01:58:55 PM]: New Connection With Client
+[01:58:55 PM]: 1000 Connection Approved
+[01:58:55 PM]: The Connection With Client ID: 1000 Has Been Validated
+[01:59:00 PM]: Kevin Has Now Registered and Connected With ID: 1000
+[01:59:06 PM]: New Connection With Client
+[01:59:06 PM]: 1001 Connection Approved
+[01:59:06 PM]: The Connection With Client ID: 1001 Has Been Validated
+[01:59:06 PM]: Awesome is Now Connected With ID: 1001
+[01:59:12 PM]: New Connection With Client
+[01:59:12 PM]: 1002 Connection Approved
+[01:59:12 PM]: The Connection With Client ID: 1002 Has Been Validated
+[01:59:12 PM]: Someone Tried Logging onto Awesome While Account Online
+[01:59:24 PM]: Awesome is Now Chatting With Kevin
+[02:06:03 PM]: Server Started Running
+[02:06:21 PM]: New Connection With Client
+[02:06:21 PM]: 1000 Connection Approved
+[02:06:21 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:06:21 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[02:06:23 PM]: Awesome is Now Connected With ID: 1000
+[02:06:41 PM]: New Connection With Client
+[02:06:41 PM]: 1001 Connection Approved
+[02:06:41 PM]: The Connection With Client ID: 1001 Has Been Validated
+[02:06:41 PM]: John is Now Connected With ID: 1001
+[02:31:12 PM]: Server Started Running
+[02:31:42 PM]: New Connection With Client
+[02:31:42 PM]: 1000 Connection Approved
+[02:31:42 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:31:42 PM]: Awesome is Now Connected With ID: 1000
+[02:32:27 PM]: Server Started Running
+[02:32:30 PM]: New Connection With Client
+[02:32:30 PM]: 1000 Connection Approved
+[02:32:30 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:32:30 PM]: Login Attempt Failed! Awesome Was Not Found!
+[02:33:26 PM]: Server Started Running
+[02:33:29 PM]: New Connection With Client
+[02:33:29 PM]: 1000 Connection Approved
+[02:33:29 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:33:29 PM]: Awesome is Now Connected With ID: 1000
+[02:34:06 PM]: Awesome Changed Their Password
+[02:34:15 PM]: New Connection With Client
+[02:34:15 PM]: 1001 Connection Approved
+[02:34:15 PM]: The Connection With Client ID: 1001 Has Been Validated
+[02:34:15 PM]: Someone Tried Logging onto Awesome While Account Online
+[02:34:24 PM]: Server Started Running
+[02:34:30 PM]: New Connection With Client
+[02:34:30 PM]: 1000 Connection Approved
+[02:34:30 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:34:30 PM]: Awesome is Now Connected With ID: 1000
+[02:34:42 PM]: Server Started Running
+[02:34:45 PM]: New Connection With Client
+[02:34:45 PM]: 1000 Connection Approved
+[02:34:45 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:34:45 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[02:39:25 PM]: Server Started Running
+[02:39:54 PM]: New Connection With Client
+[02:39:54 PM]: 1000 Connection Approved
+[02:39:54 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:39:54 PM]: Awesome is Now Connected With ID: 1000
+[02:40:34 PM]: Awesome Changed Their Password
+[02:41:26 PM]: Server Started Running
+[02:41:30 PM]: New Connection With Client
+[02:41:30 PM]: 1000 Connection Approved
+[02:41:30 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:41:30 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[02:41:32 PM]: Awesome is Now Connected With ID: 1000
+[02:42:48 PM]: Server Started Running
+[02:42:56 PM]: New Connection With Client
+[02:42:56 PM]: 1000 Connection Approved
+[02:42:56 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:42:56 PM]: Awesome is Now Connected With ID: 1000
+[02:43:01 PM]: Awesome Changed Their Password
+[02:43:08 PM]: Server Started Running
+[02:43:13 PM]: New Connection With Client
+[02:43:13 PM]: 1000 Connection Approved
+[02:43:13 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:43:13 PM]: Login Attempt Failed! Awesome Was Not Found!
+[02:43:16 PM]: Login Attempt Failed! Awesome Was Not Found!
+[02:43:27 PM]: John is Now Connected With ID: 1000
+[02:44:35 PM]: Server Started Running
+[02:44:39 PM]: New Connection With Client
+[02:44:39 PM]: 1000 Connection Approved
+[02:44:39 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:44:39 PM]: Awesome is Now Connected With ID: 1000
+[02:45:40 PM]: Server Started Running
+[02:45:49 PM]: New Connection With Client
+[02:45:49 PM]: 1000 Connection Approved
+[02:45:49 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:45:49 PM]: Awesome is Now Connected With ID: 1000
+[02:45:56 PM]: Awesome Changed Their Password
+[02:46:15 PM]: New Connection With Client
+[02:46:15 PM]: 1001 Connection Approved
+[02:46:15 PM]: The Connection With Client ID: 1001 Has Been Validated
+[02:46:15 PM]: John is Now Connected With ID: 1001
+[02:46:21 PM]: Server Started Running
+[02:46:23 PM]: New Connection With Client
+[02:46:23 PM]: 1000 Connection Approved
+[02:46:23 PM]: The Connection With Client ID: 1000 Has Been Validated
+[02:46:23 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[02:46:27 PM]: Awesome is Now Connected With ID: 1000

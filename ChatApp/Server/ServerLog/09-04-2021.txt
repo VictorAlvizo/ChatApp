@@ -1,0 +1,43 @@
+[06:48:43 PM]: Server Started Running
+[06:48:49 PM]: New Connection With Client
+[06:48:49 PM]: 1000 Connection Approved
+[06:48:49 PM]: The Connection With Client ID: 1000 Has Been Validated
+[06:48:49 PM]: Awesome is Now Connected With ID: 1000
+[06:49:03 PM]: Awesome Changed Their Password
+[06:49:10 PM]: The User Awesome Has Left
+[06:49:10 PM]: The User Awesome Has Been Removed
+[06:49:10 PM]: Awesome Has Disconnected
+[06:49:18 PM]: New Connection With Client
+[06:49:18 PM]: 1001 Connection Approved
+[06:49:18 PM]: The Connection With Client ID: 1001 Has Been Validated
+[06:49:18 PM]: John is Now Connected With ID: 1001
+[06:49:23 PM]: New Connection With Client
+[06:49:23 PM]: 1002 Connection Approved
+[06:49:23 PM]: The Connection With Client ID: 1002 Has Been Validated
+[06:49:23 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[06:49:26 PM]: Awesome is Now Connected With ID: 1002
+[06:49:28 PM]: The User Awesome Has Left
+[06:49:28 PM]: The User Awesome Has Been Removed
+[06:49:28 PM]: Awesome Has Disconnected
+[06:57:59 PM]: Server Started Running
+[06:58:03 PM]: New Connection With Client
+[06:58:03 PM]: 1000 Connection Approved
+[06:58:03 PM]: The Connection With Client ID: 1000 Has Been Validated
+[06:58:03 PM]: John is Now Connected With ID: 1000
+[07:00:33 PM]: Server Started Running
+[07:00:49 PM]: New Connection With Client
+[07:00:49 PM]: 1000 Connection Approved
+[07:00:49 PM]: The Connection With Client ID: 1000 Has Been Validated
+[07:00:49 PM]: Awesome is Now Connected With ID: 1000
+[07:00:51 PM]: The User Awesome Has Left
+[07:00:51 PM]: The User Awesome Has Been Removed
+[07:00:51 PM]: Awesome Has Disconnected
+[07:02:37 PM]: Server Started Running
+[07:07:10 PM]: Server Started Running
+[07:07:30 PM]: Server Started Running
+[07:07:50 PM]: Server Started Running
+[07:08:01 PM]: Server Started Running
+[07:15:22 PM]: Server Started Running
+[07:15:42 PM]: Server Started Running
+[07:15:47 PM]: Server Started Running
+[07:18:48 PM]: Server Started Running

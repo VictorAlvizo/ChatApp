@@ -1,0 +1,89 @@
+[08:37:07 PM]: Server Started Running
+[08:37:20 PM]: New Connection With Client
+[08:37:20 PM]: 1000 Connection Approved
+[08:37:20 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:37:20 PM]: DarkRider is Now Connected With ID: 1000
+[08:37:30 PM]: New Connection With Client
+[08:37:30 PM]: 1001 Connection Approved
+[08:37:30 PM]: The Connection With Client ID: 1001 Has Been Validated
+[08:37:30 PM]: Login Attempt Failed! D Was Not Found!
+[08:37:35 PM]: Login Attempt Failed! v Was Not Found!
+[08:37:49 PM]: New Connection With Client
+[08:37:49 PM]: 1002 Connection Approved
+[08:37:49 PM]: The Connection With Client ID: 1002 Has Been Validated
+[08:37:49 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[08:37:52 PM]: Awesome is Now Connected With ID: 1002
+[08:37:53 PM]: The User Awesome Has Left
+[08:37:53 PM]: The User Awesome Has Been Removed
+[08:37:53 PM]: Awesome Has Disconnected
+[08:37:53 PM]: pe Unknown! Header Number: 
+[08:38:23 PM]: The User DarkRider Has Left
+[08:38:23 PM]: The User DarkRider Has Been Removed
+[08:38:23 PM]: DarkRider Has Disconnected
+[08:38:23 PM]: pe Unknown! Header Number: 
+[08:42:54 PM]: Server Started Running
+[08:44:55 PM]: Server Started Running
+[08:45:02 PM]: New Connection With Client
+[08:45:02 PM]: 1000 Connection Approved
+[08:45:02 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:45:02 PM]: John is Now Connected With ID: 1000
+[08:45:06 PM]: New Connection With Client
+[08:45:06 PM]: 1001 Connection Approved
+[08:45:06 PM]: The Connection With Client ID: 1001 Has Been Validated
+[08:45:06 PM]: Awesome is Now Connected With ID: 1001
+[08:45:12 PM]: The User John Has Left
+[08:45:12 PM]: The User John Has Been Removed
+[08:45:12 PM]: John Has Disconnected
+[08:45:23 PM]: New Connection With Client
+[08:45:23 PM]: 1002 Connection Approved
+[08:45:23 PM]: The Connection With Client ID: 1002 Has Been Validated
+[08:45:23 PM]: John is Now Connected With ID: 1002
+[08:45:30 PM]: New Connection With Client
+[08:45:30 PM]: 1003 Connection Approved
+[08:45:30 PM]: The Connection With Client ID: 1003 Has Been Validated
+[08:45:30 PM]: Login Attempt Failed! Dark Was Not Found!
+[08:45:33 PM]: DarkRider is Now Connected With ID: 1003
+[08:45:41 PM]: The User DarkRider Has Left
+[08:45:41 PM]: The User DarkRider Has Been Removed
+[08:45:41 PM]: DarkRider Has Disconnected
+[08:45:58 PM]: John is Now Chatting With Awesome
+[08:46:04 PM]: Awesome is Leaving the Conversation With John
+[08:46:04 PM]: The User Awesome Has Left
+[08:46:04 PM]: The User Awesome Has Been Removed
+[08:46:04 PM]: Awesome Has Disconnected
+[08:46:10 PM]: The User John Has Left
+[08:46:11 PM]: The User John Has Been Removed
+[08:46:11 PM]: John Has Disconnected
+[08:46:32 PM]: Server Started Running
+[08:46:38 PM]: New Connection With Client
+[08:46:38 PM]: 1000 Connection Approved
+[08:46:38 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:46:38 PM]: John is Now Connected With ID: 1000
+[08:46:39 PM]: The User John Has Left
+[08:46:39 PM]: The User John Has Been Removed
+[08:46:39 PM]: John Has Disconnected
+[08:49:37 PM]: Server Started Running
+[08:49:43 PM]: New Connection With Client
+[08:49:43 PM]: 1000 Connection Approved
+[08:49:43 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:49:43 PM]: John is Now Connected With ID: 1000
+[08:49:43 PM]: The User John Has Left
+[08:49:43 PM]: The User John Has Been Removed
+[08:49:43 PM]: John Has Disconnected
+[08:49:54 PM]: Server Started Running
+[08:50:00 PM]: New Connection With Client
+[08:50:00 PM]: 1000 Connection Approved
+[08:50:00 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:50:00 PM]: John is Now Connected With ID: 1000
+[08:50:02 PM]: The User John Has Left
+[08:50:02 PM]: The User John Has Been Removed
+[08:50:02 PM]: John Has Disconnected
+[08:53:12 PM]: Server Started Running
+[08:53:25 PM]: New Connection With Client
+[08:53:25 PM]: 1000 Connection Approved
+[08:53:25 PM]: The Connection With Client ID: 1000 Has Been Validated
+[08:53:25 PM]: Login Attempt Failed! Kevin Was Not Found!
+[08:53:28 PM]: John is Now Connected With ID: 1000
+[08:53:31 PM]: The User John Has Left
+[08:53:31 PM]: The User John Has Been Removed
+[08:53:31 PM]: John Has Disconnected

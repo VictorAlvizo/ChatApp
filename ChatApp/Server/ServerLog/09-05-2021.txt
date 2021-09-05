@@ -1,0 +1,149 @@
+[03:42:01 PM]: Server Started Running
+[03:45:37 PM]: Server Started Running
+[03:45:52 PM]: Server Started Running
+[03:46:03 PM]: Server Started Running
+[03:46:33 PM]: Server Started Running
+[03:46:46 PM]: Server Started Running
+[03:48:45 PM]: Server Started Running
+[03:49:06 PM]: Server Started Running
+[03:50:40 PM]: Server Started Running
+[03:50:41 PM]: The Server Has Stopped Running
+[03:51:45 PM]: Server Started Running
+[03:51:45 PM]: The Server Has Stopped Running
+[03:52:05 PM]: Server Started Running
+[03:52:19 PM]: New Connection With Client
+[03:52:19 PM]: 1000 Connection Approved
+[03:52:19 PM]: The Connection With Client ID: 1000 Has Been Validated
+[03:52:19 PM]: Awesome is Now Connected With ID: 1000
+[03:52:27 PM]: New Connection With Client
+[03:52:27 PM]: 1001 Connection Approved
+[03:52:27 PM]: The Connection With Client ID: 1001 Has Been Validated
+[03:52:27 PM]: John is Now Connected With ID: 1001
+[03:52:29 PM]: The Server Has Stopped Running
+[03:53:45 PM]: Server Started Running
+[03:53:55 PM]: New Connection With Client
+[03:53:55 PM]: 1000 Connection Approved
+[03:53:55 PM]: The Connection With Client ID: 1000 Has Been Validated
+[03:53:55 PM]: Awesome is Now Connected With ID: 1000
+[03:53:56 PM]: The Server Has Stopped Running
+[03:54:18 PM]: Server Started Running
+[03:54:21 PM]: New Connection With Client
+[03:54:21 PM]: 1000 Connection Approved
+[03:54:21 PM]: The Connection With Client ID: 1000 Has Been Validated
+[03:54:21 PM]: Login Attempt to Awesome Failed! Incorrect Password
+[03:54:23 PM]: Awesome is Now Connected With ID: 1000
+[04:03:33 PM]: Server Started Running
+[04:03:37 PM]: New Connection With Client
+[04:03:37 PM]: 1000 Connection Approved
+[04:03:37 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:03:37 PM]: Awesome is Now Connected With ID: 1000
+[04:03:43 PM]: New Connection With Client
+[04:03:43 PM]: 1001 Connection Approved
+[04:03:43 PM]: The Connection With Client ID: 1001 Has Been Validated
+[04:03:43 PM]: John is Now Connected With ID: 1001
+[04:04:02 PM]: New Connection With Client
+[04:04:02 PM]: 1002 Connection Approved
+[04:04:02 PM]: The Connection With Client ID: 1002 Has Been Validated
+[04:04:02 PM]: Login Attempt Failed! f Was Not Found!
+[04:04:12 PM]: New Connection With Client
+[04:04:12 PM]: 1003 Connection Approved
+[04:04:12 PM]: The Connection With Client ID: 1003 Has Been Validated
+[04:04:12 PM]: DarkRider is Now Connected With ID: 1003
+[04:04:57 PM]: Login Attempt Failed! Polu Was Not Found!
+[04:05:02 PM]: Poly is Now Connected With ID: 1002
+[04:05:20 PM]: Poly is Now Chatting With John
+[04:05:31 PM]: Poly is Leaving the Conversation With John
+[04:05:31 PM]: The User Poly Has Left
+[04:05:31 PM]: The User Poly Has Been Removed
+[04:05:31 PM]: Poly Has Disconnected
+[04:05:32 PM]: The Server Has Stopped Running
+[04:07:21 PM]: Server Started Running
+[04:07:28 PM]: New Connection With Client
+[04:07:28 PM]: 1000 Connection Approved
+[04:07:28 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:07:28 PM]: Awesome is Now Connected With ID: 1000
+[04:07:50 PM]: Server Started Running
+[04:07:57 PM]: New Connection With Client
+[04:07:57 PM]: 1000 Connection Approved
+[04:07:57 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:07:57 PM]: Awesome is Now Connected With ID: 1000
+[04:08:02 PM]: New Connection With Client
+[04:08:02 PM]: 1001 Connection Approved
+[04:08:02 PM]: The Connection With Client ID: 1001 Has Been Validated
+[04:08:02 PM]: Login Attempt Failed! 1 Was Not Found!
+[04:08:05 PM]: John is Now Connected With ID: 1001
+[04:08:07 PM]: The Server Has Stopped Running
+[04:09:41 PM]: Server Started Running
+[04:09:43 PM]: The Server Has Stopped Running
+[04:09:57 PM]: Server Started Running
+[04:10:09 PM]: New Connection With Client
+[04:10:09 PM]: 1000 Connection Approved
+[04:10:09 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:10:09 PM]: Awesome is Now Connected With ID: 1000
+[04:10:10 PM]: The Server Has Stopped Running
+[04:11:12 PM]: Server Started Running
+[04:11:19 PM]: New Connection With Client
+[04:11:19 PM]: 1000 Connection Approved
+[04:11:19 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:11:19 PM]: Awesome is Now Connected With ID: 1000
+[04:11:21 PM]: The Server Has Stopped Running
+[04:14:05 PM]: Server Started Running
+[04:14:09 PM]: New Connection With Client
+[04:14:09 PM]: 1000 Connection Approved
+[04:14:09 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:14:09 PM]: Awesome is Now Connected With ID: 1000
+[04:14:28 PM]: The Server Has Stopped Running
+[04:14:34 PM]: Server Started Running
+[04:14:39 PM]: New Connection With Client
+[04:14:39 PM]: 1000 Connection Approved
+[04:14:39 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:14:39 PM]: Awesome is Now Connected With ID: 1000
+[04:14:40 PM]: The Server Has Stopped Running
+[04:16:48 PM]: Server Started Running
+[04:16:48 PM]: The Server Has Stopped Running
+[04:34:23 PM]: Server Started Running
+[04:34:28 PM]: The Server Has Stopped Running
+[04:37:54 PM]: Server Started Running
+[04:38:04 PM]: New Connection With Client
+[04:38:04 PM]: 1000 Connection Approved
+[04:38:04 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:38:27 PM]: The Server Has Stopped Running
+[04:39:13 PM]: Server Started Running
+[04:39:19 PM]: New Connection With Client
+[04:39:19 PM]: 1000 Connection Approved
+[04:39:19 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:39:24 PM]: The Server Has Stopped Running
+[04:44:34 PM]: Server Started Running
+[04:44:57 PM]: New Connection With Client
+[04:44:57 PM]: 1000 Connection Approved
+[04:44:57 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:45:02 PM]: The Server Has Stopped Running
+[04:45:47 PM]: Server Started Running
+[04:45:50 PM]: The Server Has Stopped Running
+[04:45:55 PM]: Server Started Running
+[04:46:10 PM]: New Connection With Client
+[04:46:10 PM]: 1000 Connection Approved
+[04:46:10 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:46:10 PM]: Awesome is Now Connected With ID: 1000
+[04:46:16 PM]: The User Awesome Has Left
+[04:46:16 PM]: The User Awesome Has Been Removed
+[04:46:16 PM]: Awesome Has Disconnected
+[04:46:17 PM]: The Server Has Stopped Running
+[04:47:24 PM]: Server Started Running
+[04:47:32 PM]: New Connection With Client
+[04:47:32 PM]: 1000 Connection Approved
+[04:47:32 PM]: The Connection With Client ID: 1000 Has Been Validated
+[04:47:32 PM]: John is Now Connected With ID: 1000
+[04:47:37 PM]: New Connection With Client
+[04:47:37 PM]: 1001 Connection Approved
+[04:47:37 PM]: The Connection With Client ID: 1001 Has Been Validated
+[04:47:37 PM]: Awesome is Now Connected With ID: 1001
+[04:47:45 PM]: Awesome is Now Chatting With John
+[04:47:48 PM]: John is Leaving the Conversation With Awesome
+[04:47:48 PM]: The User John Has Left
+[04:47:48 PM]: The User John Has Been Removed
+[04:47:48 PM]: John Has Disconnected
+[04:47:53 PM]: The User Awesome Has Left
+[04:47:53 PM]: The User Awesome Has Been Removed
+[04:47:53 PM]: Awesome Has Disconnected
+[04:47:56 PM]: The Server Has Stopped Running

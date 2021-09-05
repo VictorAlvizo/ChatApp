@@ -1,0 +1,59 @@
+[05:30:13 PM]: Server Started Running
+[05:30:44 PM]: New Connection With Client
+[05:30:44 PM]: 1000 Connection Approved
+[05:30:44 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:30:44 PM]: John is Now Connected With ID: 1000
+[05:30:55 PM]: New Connection With Client
+[05:30:55 PM]: 1001 Connection Approved
+[05:30:55 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:30:55 PM]: Awesome is Now Connected With ID: 1001
+[05:30:57 PM]: The User Awesome Has Left
+[05:30:57 PM]: The User Awesome Has Been Removed
+[05:30:57 PM]: Awesome Has Disconnected
+[05:31:12 PM]: New Connection With Client
+[05:31:12 PM]: 1002 Connection Approved
+[05:31:12 PM]: The Connection With Client ID: 1002 Has Been Validated
+[05:31:12 PM]: Marvin Has Now Registered and Connected With ID: 1002
+[05:31:25 PM]: Marvin is Now Chatting With John
+[05:31:33 PM]: Marvin is Leaving the Conversation With John
+[05:31:33 PM]: The User Marvin Has Left
+[05:31:33 PM]: The User Marvin Has Been Removed
+[05:31:33 PM]: Marvin Has Disconnected
+[05:31:35 PM]: The User John Has Left
+[05:31:35 PM]: The User John Has Been Removed
+[05:31:35 PM]: John Has Disconnected
+[05:34:55 PM]: Server Started Running
+[05:41:51 PM]: Server Started Running
+[05:42:05 PM]: New Connection With Client
+[05:42:05 PM]: 1000 Connection Approved
+[05:42:05 PM]: The Connection With Client ID: 1000 Has Been Validated
+[05:42:05 PM]: Awesome is Now Connected With ID: 1000
+[05:42:12 PM]: Awesome Changed Their Password
+[05:42:14 PM]: The User Awesome Has Left
+[05:42:14 PM]: The User Awesome Has Been Removed
+[05:42:14 PM]: Awesome Has Disconnected
+[05:42:19 PM]: New Connection With Client
+[05:42:19 PM]: 1001 Connection Approved
+[05:42:19 PM]: The Connection With Client ID: 1001 Has Been Validated
+[05:42:19 PM]: John is Now Connected With ID: 1001
+[05:42:20 PM]: The User John Has Left
+[05:42:20 PM]: The User John Has Been Removed
+[05:42:20 PM]: John Has Disconnected
+[06:17:18 PM]: Server Started Running
+[06:17:32 PM]: New Connection With Client
+[06:17:32 PM]: 1000 Connection Approved
+[06:17:32 PM]: The Connection With Client ID: 1000 Has Been Validated
+[06:17:32 PM]: Awesome is Now Connected With ID: 1000
+[06:17:42 PM]: Awesome Changed Their Password
+[06:18:37 PM]: Server Started Running
+[06:18:45 PM]: New Connection With Client
+[06:18:45 PM]: 1000 Connection Approved
+[06:18:45 PM]: The Connection With Client ID: 1000 Has Been Validated
+[06:18:45 PM]: Awesome is Now Connected With ID: 1000
+[06:18:51 PM]: Awesome Changed Their Password
+[06:27:45 PM]: Server Started Running
+[06:27:54 PM]: New Connection With Client
+[06:27:54 PM]: 1000 Connection Approved
+[06:27:54 PM]: The Connection With Client ID: 1000 Has Been Validated
+[06:27:54 PM]: Awesome is Now Connected With ID: 1000
+[06:28:00 PM]: Awesome Changed Their Password
