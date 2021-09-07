@@ -489,8 +489,7 @@ public:
 			if (username != clientUsername) {
 				continue;
 			}
-
-			//TODO: Think of a better hashing algorithm
+			
 			accountFound = true;
 			std::string saltedKey = HashStr(username, initalKey);
 			int passOffset = usernameOffset + usernameLength;
@@ -555,7 +554,6 @@ public:
 
 			std::string username = XORString(encryptedUsername, initalKey);
 			std::string saltedKey = HashStr(username, initalKey);
-			std::cout << "Past Hash Method" << std::endl;
 			int passOffset = usernameOffset + usernameLength;
 
 			std::string encryptedCombo;
@@ -567,7 +565,6 @@ public:
 			std::string password = comboStr.substr(0, comboStr.find(" "));
 			std::string status = comboStr.substr(comboStr.find(" ") + 1, 1);
 			
-			std::cout << "Pushed" << std::endl;
 			organizedAccounts.push_back({ username, (user == username) ? newPassword : password, (status == "A" ? 1 : 0) });
 		}
 		readFile.close();
@@ -655,7 +652,7 @@ public:
 		int findPos = str.find(replace), lastPos = 0;
 		while (findPos != std::string::npos) {
 			newStr.append(str, 0, findPos); //Copy the part of string before the replace token
-			newStr += "\n";
+			newStr += replaceWith;
 			lastPos = findPos + replace.length();
 			findPos = str.find(replace, lastPos);
 		}
