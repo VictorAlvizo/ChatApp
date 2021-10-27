@@ -23,7 +23,6 @@ public:
 		}
 	}
 
-	//TODO: Need to assign the username here, or at some point when the client first connects
 	void ConnectToServer(const std::string& username, const asio::ip::tcp::resolver::results_type& endpoints) {
 		if (m_Owner == Owner::Client) {
 			m_Status = ChatStatus::Server;
